@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/ui5-middleware-global-variables.svg)](https://badge.fury.io/js/ui5-middleware-global-variables)
+
 # UI5 global variables middleware
 
 Middleware for [ui5-server](https://github.com/SAP/ui5-server), for accessing globally injected variables.
