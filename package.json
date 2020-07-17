@@ -1,6 +1,6 @@
 {
   "name": "ui5-middleware-global-variables",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "UI5 Middleware for injecting and accessing global variables in UI5 coding during testing",
   "scripts": {
     "ncu-upgrade": "ncu -u"
